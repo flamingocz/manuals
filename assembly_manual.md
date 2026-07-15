@@ -1,5 +1,6 @@
 # Manual for Assembly Organization
-[source](https://www.instagram.com/prviprvinaskali)
+[source]([https://www.instagram.com/prviprvinaskali](https://www.instagram.com/prviprvinaskali/p/DHb5XRnIpjZ/?img_index=1))
+[more info](https://balkaninsight.com/2025/04/14/serbias-student-plenums-a-blueprint-for-renewing-democracy/bi/)
 
 ## What is direct democracy?
 
