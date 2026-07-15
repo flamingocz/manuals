@@ -1,4 +1,5 @@
 # Manual for Assembly Organization
+[source](https://www.instagram.com/prviprvinaskali)
 
 ## What is direct democracy?
 
@@ -48,10 +49,13 @@ according to the agenda, gives the floor and ensures that everyone gets a chance
 - Voting is done by raising hands FOR, AGAINST, OR ABSTENTION.
 - Decisions are made by a simple majority (50% +1).
 
-You can see an example of a quorum that can also be used for meetings in our manual for plenums (post edited on March 3 on the @blokada.fon profile).
+
 
 ## Assembly rules:
 
 - Participants in the assembly must not interrupt one another and must respect every speaker.
 - All speakers have the right to express their views, but they must not belittle the views or personality of other speakers.
 - There must be no shouting comments from the floor, and no dialogue between participants may take place unless the floor has been given.
+
+
+  
