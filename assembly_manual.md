@@ -36,14 +36,14 @@ Ways you can put pressure on those responsible:
 
 ## Basic terms for starting a meeting:
 
-### A moderator is a person who leads a meeting
+- A moderator is a person who leads a meeting
 according to the agenda, gives the floor and ensures that everyone gets a chance to speak, but does not have the right to participate in the discussion.
 
-### An agenda is a list of items that a given meeting wants to discuss. The agenda is prepared with the convener, and is proposed, amended and voted on at the very beginning of the meeting.
+- An agenda is a list of items that a given meeting wants to discuss. The agenda is prepared with the convener, and is proposed, amended and voted on at the very beginning of the meeting.
 
-### Minutes are a document that records all items on the agenda, discussions on the topic of the agenda items and decisions that were voted on.
+- Minutes are a document that records all items on the agenda, discussions on the topic of the agenda items and decisions that were voted on.
 
-### A minute taker is a person who records decisions made at the meeting.
+- A minute taker is a person who records decisions made at the meeting.
 
 ## Meeting rules:
 
